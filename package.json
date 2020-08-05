@@ -2,13 +2,13 @@
   "name": "eval-pad",
   "main": "./lib/eval-pad",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "eval-pad enables you to see the result of your Javascript code immediately. Useful for checking syntax or doing some quick calculations.",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "eval-pad:toggle"
   },
-  "repository": "https://github.com/atom/eval-pad",
+  "repository": "https://github.com/Korboh/evalpad",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
