@@ -1,0 +1,21 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Evalpad",
+        "command": "eval-pad:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Evalpad",
+          "command": "eval-pad:toggle"
+        }
+      ]
+    }
+  ]
+}
